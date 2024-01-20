@@ -1,10 +1,11 @@
-      Les objectifs de la mission
+      The targets of our consulting mission 
 
-Le principal objectif de la mission consiste en une veille concurrentielle relativement complète et développée. 
-Il s’agira en effet de lister les principaux concurrents d’Opinum en essayant de comprendre au mieux leur secteur d’activité, 
-leur manière de travailler et surtout d’identifier leurs facteurs clés de succès. 
-Cette veille permettra ainsi d’étudier le business model des concurrents afin d’en dégager de grands axes de réflexions afin de présenter
-de potentielles des recommandations stratégiques à Opinum. La veille aura une dimension internationale afin d’explorer au mieux le marché. 
-Le deuxième grand objectif sera alors de dresser une nouvelle politique de pricing relative au segment des plus petits acteurs. 
-Pour se faire, nous aurons besoin de simuler des devis relatifs à ce segment afin de comprendre et d’intégrer la politique de pricing actuelle 
-et de la comparer ensuite avec les politiques concurrentes. A partir de là, il sera alors possible de mettre en place un ou plusieurs nouveau(x) plan(s) de pricing.
+The main objective of the assignment is to carry out a relatively comprehensive and well-developed competitive analysis. 
+This will involve listing Opinum's main competitors and trying to gain a better understanding of their sector of activity, 
+their way of working and, above all, to identify their key success factors. 
+This monitoring will make it possible to study the competitors' business models in order to draw out the main areas for consideration in order to present Opinum with
+potential strategic recommendations to Opinum. The monitoring will have an international dimension in order to explore the market as fully as possible. 
+The second major objective will be to draw up a new pricing strategy for the smaller players. 
+To do this, we will need to simulate pricing for this segment in order to understand and integrate the current pricing policy 
+and then compare it with competing strategies. On this basis, it will then be possible to implement one or more new pricing plans.
+
